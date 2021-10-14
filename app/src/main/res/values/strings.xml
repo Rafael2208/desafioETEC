@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculo</string>
+    <string name="calculando_um_ret_ngulo">Calculando um Retângulo</string>
+    <string name="digite_a_base_do_ret_ngulo">Digite a base do retângulo</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="resultado">Resultado</string>
+    <string name="digite_a_altura_do_ret_ngulo">Digite a altura do retângulo</string>
+    <string name="calculando_a_rea_de_um_ret_ngulo">Calculando a área de um Retângulo</string>
+</resources>
